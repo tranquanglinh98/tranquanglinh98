@@ -20,8 +20,10 @@ p {
   color: black;
   cursor: pointer;
   margin: 0px;
-  padding-top: 45px; 
+  padding-top: 50px; 
   overflow: hidden;
+  padding-left: 15px;
+  padding-right: 15px;
   
 }
 
